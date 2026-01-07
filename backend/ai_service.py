@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # DeepSeek API 配置
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-40d6398718134128bd4ab2a8000a0649")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "Your_key")
 DEEPSEEK_API_BASE = os.getenv("DEEPSEEK_API_BASE", "https://api.deepseek.com")
 
 
