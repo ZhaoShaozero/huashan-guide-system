@@ -33,24 +33,27 @@
 
 ## 📂 项目结构
 
-huashan-guide-system/
-├── frontend/ # Vue 3 前端应用
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── Map.vue # 景点导览主组件
-│ │ ├── App.vue
-│ │ └── main.js
-│ ├── package.json
-│ └── vite.config.js
-├── backend/ # Python Flask 后端
-│ ├── app.py # Flask 主应用文件
-│ ├── requirements.txt # Python 依赖列表
-│ ├── venv/ # Python 虚拟环境
-│ └── instance/
-│ └── huashan.db # SQLite 数据库
-├── README.md # 项目说明文档
-└── .gitignore # Git 忽略文件配置
+```text
 
+huashan-guide-system/
+├── frontend/                # Vue 3 前端应用
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── Map.vue      # 景点导览主组件
+│   │   ├── App.vue
+│   │   └── main.js
+│   ├── package.json
+│   └── vite.config.js
+├── backend/                 # Python Flask 后端
+│   ├── app.py               # Flask 主应用文件
+│   ├── requirements.txt     # Python 依赖列表
+│   ├── venv/                # Python 虚拟环境
+│   └── instance/
+│       └── huashan.db       # SQLite 数据库
+├── README.md                # 项目说明文档
+└── .gitignore               # Git 忽略文件配置
+
+```
 ## 🚀 快速开始
 
 ### 环境要求
