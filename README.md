@@ -137,4 +137,4 @@ AI 生成的代码经过以下步骤的审查和优化：
 
 提交 Pull Request
 
-发送[邮件](zhushuaza@gmail.com)反馈  
+发送[邮件](mailto:zhushuaza@gmail.com "给作者发邮件")反馈
